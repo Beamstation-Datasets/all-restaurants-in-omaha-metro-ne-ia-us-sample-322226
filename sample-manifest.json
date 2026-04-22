@@ -1,12 +1,12 @@
 {
-  "export_job_id": "7f1cdd64-5971-42fb-8507-4d69b820450b",
+  "export_job_id": "702883b4-bb4f-4773-ba19-77f7d78b6c3d",
   "id_short": 322226,
-  "published_at": "2026-04-18T07:52:29Z",
+  "published_at": "2026-04-22T07:21:52Z",
   "repo_name": "all-restaurants-in-omaha-metro-ne-ia-us-sample-322226",
   "sample_asset_name": "beamstation_322226_restaurants-us-omahaneia_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/322226/beamstation_322226_restaurants-us-omahaneia_SAMPLE_DIST.csv",
-  "sample_records": 225,
-  "sample_sha256": "efd44d0f34817c27962f1b642c11d75b9012445b1c4f88b691a52af5401bcfbb",
-  "sample_size_bytes": 811332,
-  "total_records": 2253
+  "sample_records": 77,
+  "sample_sha256": "b6e439e82a29da9a7198fcb7707e4bdfbe1c5accd201d050d00b41ec463a88b1",
+  "sample_size_bytes": 304087,
+  "total_records": 775
 }
